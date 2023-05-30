@@ -1,0 +1,100 @@
+.head{
+    text-align: center;
+    background-color: rgb(3, 3, 3);
+    color: aquamarine;
+}
+.item{
+    display: flex;
+    
+    margin-bottom: 10px;
+}
+h2{
+    text-align: center;
+    color: rgb(17, 214, 171);
+    
+}
+body{
+    background-color: rgb(8, 8, 8);
+}
+footer{
+    text-align: center;
+    color: rgb(210, 246, 8);
+    background-color: rgba(16, 15, 15, 0.863);
+}
+#icon{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+
+}
+#bi:hover{
+    transform: scale(1.3);
+
+}
+#bi{
+    background-color: rgb(190, 238, 17);
+    box-shadow: 3px 2px 3px rgb(215, 234, 13);
+    padding: 8px;
+    margin: 10px;
+    border: 2px solid rgb(239, 232, 232);
+    
+}
+#head{
+    padding: 10px;
+    border: 10px;
+    margin: 20px;
+    text-align: center;
+    
+}
+span{
+    margin-right: 50px;
+    color: cyan;
+    
+}
+span:hover{
+    color: rgb(225, 122, 87);
+    
+}
+img{
+    box-shadow: 3px 2px 3px rgb(6, 214, 99);
+    padding: 20px;
+    margin: 30px;
+    border: 1px solid rgb(197, 229, 15);
+}
+#button{
+    left: 5px;
+    position: absolute;
+    top: 50px;
+    left: 80%;
+    padding: 5px;
+
+    
+    
+}
+button{
+    color: rgb(14, 228, 228);
+    background-color: crimson;
+    border: 1px solid rgb(246, 7, 106);
+}
+button:hover{
+   transform: scale(1.4);
+   color: rgb(15, 16, 16);
+   background-color: rgb(34, 215, 58);
+}
+h2{
+    box-shadow: 3px 2px 3px rgb(215, 234, 13);
+    padding: 20px;
+    margin: 30px;
+    border: 2px solid rgb(239, 232, 232);
+    width: 30%;
+    background-color: rgb(215, 159, 48);
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+}
+img:hover{
+    transform: scale(1.1);
+}
